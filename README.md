@@ -18,6 +18,7 @@ Whether you are a designer, a developer, or an e-commerce owner, this list helps
 
 Tools dedicated to extracting subjects, removing backgrounds, and cleaning up unwanted objects from photos.
 
+* [ClearCrowds](https://clearcrowds.com/) - AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
 * [Remove.photos](https://remove.photos) - A powerful, fully automated cloud AI tool for instant background removal, transparent background creation, and object cleanup with zero local processing required.
 * [Photoroom](https://www.photoroom.com/) - App and web-based tool for removing backgrounds and creating product images.
 * [Clipdrop](https://clipdrop.co/) - An ecosystem of apps, plugins, and resources for all creators to remove backgrounds and clean up images.
