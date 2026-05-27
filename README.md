@@ -39,6 +39,8 @@ Tools to enlarge images without losing quality, colorize old photos, and enhance
 * [Magnific AI](https://magnific.ai/) - A highly advanced AI image upscaler and enhancer.
 * [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) - Desktop software that sharpens, removes noise, and increases the resolution of your photos.
 
+* [PhotoRestore.ai](https://photorestore.ai) - AI-powered old photo restoration — repairs scratches, fading, tears, and colorizes B&W images automatically.
+
 ## Format Conversion & Compression
 
 Efficient tools for handling image sizes, formats, and optimization for the web.
