@@ -30,6 +30,7 @@ Tools that generate images from text prompts using advanced diffusion models.
 * [Midjourney](https://www.midjourney.com/) - An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [DALL·E 3](https://openai.com/dall-e-3) - OpenAI's premier image generation model integrated into ChatGPT.
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+* [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation using ByteDance's Seedream 5.0/4.5/4.0 with support for up to 10 image references, one-click image-to-video via Kling 2.1, and free tier access.
 
 ## Upscaling & Enhancement
 
