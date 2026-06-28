@@ -52,6 +52,7 @@ Efficient tools for handling image sizes, formats, and optimization for the web.
 AI tools tailored for UI/UX design, 3D model texturing, and asset management.
 
 * [Canva](https://www.canva.com/) - Online design and publishing tool with integrated AI Magic Studio.
+* [HairWow](https://www.gohairwow.com) - AI hairstyle try-on tool for previewing haircuts, colors, beards, and style ideas on your own photo.
 * [Luma AI](https://lumalabs.ai/) - Create lifelike 3D models and environments from photos and videos.
 * *(Add your future front-end file preview/3D tools here!)*
 
