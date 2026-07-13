@@ -21,6 +21,7 @@ Tools dedicated to extracting subjects, removing backgrounds, and cleaning up un
 * [Remove.photos](https://remove.photos) - A powerful, fully automated cloud AI tool for instant background removal, transparent background creation, and object cleanup with zero local processing required.
 * [Photoroom](https://www.photoroom.com/) - App and web-based tool for removing backgrounds and creating product images.
 * [Clipdrop](https://clipdrop.co/) - An ecosystem of apps, plugins, and resources for all creators to remove backgrounds and clean up images.
+* [ImagineClip](https://imagineclip.com/ai-image-editor) - Browser-based AI image editor for background cleanup and creative visual transformations.
 * [Cleanup.pictures](https://cleanup.pictures/) - Remove objects, people, text, and defects from any picture.
 
 ## Image Generation
