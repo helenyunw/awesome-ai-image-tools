@@ -30,6 +30,7 @@ Tools that generate images from text prompts using advanced diffusion models.
 * [Midjourney](https://www.midjourney.com/) - An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [DALL·E 3](https://openai.com/dall-e-3) - OpenAI's premier image generation model integrated into ChatGPT.
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
+* [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro generator - no relay station setup or API key required, sign in and download.
 
 ## Upscaling & Enhancement
 
