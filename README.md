@@ -31,6 +31,8 @@ Tools that generate images from text prompts using advanced diffusion models.
 * [DALL·E 3](https://openai.com/dall-e-3) - OpenAI's premier image generation model integrated into ChatGPT.
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
 
+* [Raphael](https://raphael.app/) - Free AI image generator for text-to-image, editing, and creative workflows in the browser.
+
 ## Upscaling & Enhancement
 
 Tools to enlarge images without losing quality, colorize old photos, and enhance details.
