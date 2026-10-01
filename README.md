@@ -53,6 +53,7 @@ AI tools tailored for UI/UX design, 3D model texturing, and asset management.
 
 * [Canva](https://www.canva.com/) - Online design and publishing tool with integrated AI Magic Studio.
 * [Luma AI](https://lumalabs.ai/) - Create lifelike 3D models and environments from photos and videos.
+* [RoomMaker AI](https://roommakerai.org/) - Redesign a room from a photo, preview materials, stage furniture, and draft floor plans with AI.
 * *(Add your future front-end file preview/3D tools here!)*
 
 ---
