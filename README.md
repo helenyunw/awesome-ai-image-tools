@@ -27,6 +27,7 @@ Tools dedicated to extracting subjects, removing backgrounds, and cleaning up un
 
 Tools that generate images from text prompts using advanced diffusion models.
 
+* [Clout](https://tryclout.ai/) - Generate images of consistent AI characters and create photo and video content in a browser workspace.
 * [Midjourney](https://www.midjourney.com/) - An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [DALL·E 3](https://openai.com/dall-e-3) - OpenAI's premier image generation model integrated into ChatGPT.
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface for Stable Diffusion.
